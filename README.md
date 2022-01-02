@@ -2,13 +2,13 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Network Diagram Homework 12.jpg
+Network Diagram (Homework 12.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Network Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
-  -Filebeat Installer filebeatinstall.txt
-  -Metricbeat Installer Metricbeat.txt
-  -Elk Setup elksetupyaml.txt
+  -Filebeat Installer (filebeatinstall.txt)
+  -Metricbeat Installer (Metricbeat.txt)
+  -Elk Setup (elksetupyaml.txt)
 
 This document contains the following details:
 - Description of the Topology

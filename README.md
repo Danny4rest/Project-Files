@@ -2,13 +2,13 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Network Diagram (Homework 12.jpg)
+Network Diagram (Images/Homework 12.jpg)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Network Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
-  -Filebeat Installer (filebeatinstall.txt)
-  -Metricbeat Installer (Metricbeat.txt)
-  -Elk Setup (elksetupyaml.txt)
+  -Filebeat Installer (Ansible/filebeatinstall.txt)
+  -Metricbeat Installer (Ansible/Metricbeat.txt)
+  -Elk Setup (Ansible/elksetupyaml.txt)
 
 This document contains the following details:
 - Description of the Topology
@@ -69,7 +69,7 @@ It enables the docker on boot
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Docker ps.png
+Images/Docker ps.png
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:

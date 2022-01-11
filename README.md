@@ -70,7 +70,7 @@ It enables the docker on boot
 
 The following screenshot displays the result of running `docker ps` after successfully configuring the ELK instance.
 
-Images/Docker ps.png
+![Docker](https://github.com/Danny4rest/Project-Files/blob/f4f8e8db82c2a906eee0e45dd772418f97d96e25/Images/Docker%20ps.png)
 
 ### Target Machines & Beats
 This ELK server is configured to monitor the following machines:

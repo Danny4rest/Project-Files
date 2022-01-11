@@ -2,13 +2,15 @@
 
 The files in this repository were used to configure the network depicted below.
 
-Network Diagram (Images/Homework 12.jpg)
+![Network Diagram](https://github.com/Danny4rest/Project-Files/blob/main/Images/Homework%2012.jpg?raw=true)
 
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the Network Diagram file may be used to install only certain pieces of it, such as Filebeat.
 
-  -Filebeat Installer (Ansible/filebeatinstall.txt)
-  -Metricbeat Installer (Ansible/Metricbeat.txt)
-  -Elk Setup (Ansible/elksetupyaml.txt)
+  -Filebeat Installer (https://github.com/Danny4rest/Project-Files/blob/e76bf5fe92b745b08e324594e532381560245ec9/Ansible/filebeatinstall.txt)
+  
+  -Metricbeat Installer (https://github.com/Danny4rest/Project-Files/blob/e76bf5fe92b745b08e324594e532381560245ec9/Ansible/Metricbeat.txt)
+  
+  -Elk Setup (https://github.com/Danny4rest/Project-Files/blob/e76bf5fe92b745b08e324594e532381560245ec9/Ansible/elksetupyaml.txt)
 
 This document contains the following details:
 - Description of the Topology
@@ -29,7 +31,6 @@ Integrating an ELK server allows users to easily monitor the vulnerable VMs for 
 
 
 The configuration details of each machine may be found below.
-_Note: Use the [Markdown Table Generator](http://www.tablesgenerator.com/markdown_tables) to add/remove values from the table_.
 
 | Name     | Function | IP Address | Operating System |
 |----------|----------|------------|------------------|
